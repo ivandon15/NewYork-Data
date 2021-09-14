@@ -1,0 +1,629 @@
+﻿reported_date,reported_date_year,reported_date_mon,reported_date_mon,victim_race,victim_age,victim_sex,city,lat,lon,disposition
+20160101,2016,01,1,Hispanic,19,Female,New York,40.68714,-73.85615,Closed by arrest
+20160104,2016,01,1,Hispanic,28,Male,New York,40.88393,-73.90132,Closed by arrest
+20160104,2016,01,1,Black,39,Female,New York,40.8736,-73.8456,Closed by arrest
+20160106,2016,01,1,Black,27,Male,New York,40.6746,-73.93861,Open/No arrest
+20160109,2016,01,1,Black,25,Male,New York,40.66156,-73.92595,Open/No arrest
+20160110,2016,01,1,Black,29,Male,New York,40.68328,-73.93062,Closed by arrest
+20160110,2016,01,1,Black,33,Male,New York,40.67623,-74.00695,Open/No arrest
+20160111,2016,01,1,Hispanic,50,Male,New York,40.67649,-73.83707,Closed by arrest
+20160111,2016,01,1,Black,44,Male,New York,40.67991,-73.92078,Closed by arrest
+20160111,2016,01,1,Black,34,Male,New York,40.68191,-73.89459,Closed by arrest
+20160113,2016,01,1,Black,18,Male,New York,40.66476,-73.89404,Closed by arrest
+20160114,2016,01,1,White,43,Male,New York,40.54899,-74.23027,Closed by arrest
+20160116,2016,01,1,Hispanic,26,Male,New York,40.66108,-73.89482,Open/No arrest
+20160116,2016,01,1,Hispanic,31,Male,New York,40.6064,-74.12048,Closed by arrest
+20160117,2016,01,1,Black,37,Male,New York,40.57612,-73.99983,Open/No arrest
+20160120,2016,01,1,Hispanic,17,Male,New York,40.70686,-73.9482,Closed by arrest
+20160121,2016,01,1,Hispanic,36,Male,New York,40.85792,-73.8929,Closed by arrest
+20160122,2016,01,1,Hispanic,61,Male,New York,40.68479,-73.87856,Closed by arrest
+20160123,2016,01,1,White,37,Male,New York,40.64459,-74.0019,Closed by arrest
+20160124,2016,01,1,Hispanic,59,Female,New York,40.81139,-73.92231,Closed by arrest
+20160127,2016,01,1,Black,36,Female,New York,40.59621,-73.7647,Closed by arrest
+20160127,2016,01,1,White,62,Male,New York,40.80339,-73.93815,Closed without arrest
+20160202,2016,02,2,Black,59,Male,New York,40.88905,-73.85133,Closed by arrest
+20160203,2016,02,2,Black,38,Male,New York,40.64365,-73.95269,Open/No arrest
+20160205,2016,02,2,Hispanic,43,Male,New York,40.82767,-73.92544,Closed by arrest
+20160205,2016,02,2,White,57,Male,New York,40.75033,-73.79213,Closed by arrest
+20160208,2016,02,2,Black,29,Male,New York,40.85306,-73.86894,Closed by arrest
+20160210,2016,02,2,Black,26,Female,New York,40.60839,-74.14661,Closed by arrest
+20160210,2016,02,2,Black,0,Female,New York,40.60839,-74.14661,Closed by arrest
+20160210,2016,02,2,Black,1,Female,New York,40.60839,-74.14661,Closed by arrest
+20160211,2016,02,2,Black,16,Male,New York,40.66269,-73.88831,Closed by arrest
+20160213,2016,02,2,Black,24,Male,New York,40.64201,-73.9017,Closed by arrest
+20160213,2016,02,2,Black,22,Male,New York,40.8175,-73.94198,Closed by arrest
+20160215,2016,02,2,Asian,44,Male,New York,40.63748,-74.0075,Closed by arrest
+20160215,2016,02,2,Black,33,Male,New York,40.65149,-73.92453,Open/No arrest
+20160216,2016,02,2,Black,29,Male,New York,40.68508,-73.92799,Closed by arrest
+20160217,2016,02,2,Black,54,Male,New York,40.63674,-74.13428,Closed by arrest
+20160221,2016,02,2,Hispanic,1,Male,New York,40.60888,-74.08316,Closed by arrest
+20160222,2016,02,2,Hispanic,20,Male,New York,40.81033,-73.91477,Open/No arrest
+20160225,2016,02,2,Black,23,Male,New York,40.66763,-73.89625,Open/No arrest
+20160301,2016,03,3,Hispanic,27,Male,New York,40.85359,-73.90059,Closed by arrest
+20160304,2016,03,3,Hispanic,36,Male,New York,40.82098,-73.84964,Closed by arrest
+20160304,2016,03,3,Black,26,Male,New York,40.60021,-74.1215,Closed by arrest
+20160305,2016,03,3,Hispanic,34,Male,New York,40.74522,-73.91045,Closed by arrest
+20160306,2016,03,3,Black,24,Male,New York,40.69969,-73.76649,Open/No arrest
+20160306,2016,03,3,White,55,Male,New York,40.76894,-73.91144,Closed by arrest
+20160307,2016,03,3,Hispanic,34,Female,New York,40.81219,-73.92421,Closed without arrest
+20160309,2016,03,3,Hispanic,38,Male,New York,40.86093,-73.92031,Open/No arrest
+20160309,2016,03,3,White,57,Male,New York,40.85111,-73.93526,Closed by arrest
+20160310,2016,03,3,Black,22,Male,New York,40.67166,-73.9582,Open/No arrest
+20160310,2016,03,3,White,23,Female,New York,40.59009,-74.09468,Closed by arrest
+20160311,2016,03,3,Black,33,Male,New York,40.69283,-73.75815,Open/No arrest
+20160311,2016,03,3,White,24,Male,New York,40.52768,-74.23022,Closed by arrest
+20160312,2016,03,3,White,0,Female,New York,40.5861,-74.16263,Closed by arrest
+20160313,2016,03,3,Asian,2,Female,New York,40.6448,-74.00527,Closed by arrest
+20160313,2016,03,3,Black,47,Male,New York,40.8804,-73.86385,Closed by arrest
+20160314,2016,03,3,Black,23,Male,New York,40.63177,-73.8873,Open/No arrest
+20160316,2016,03,3,Black,53,Male,New York,40.80262,-73.95109,Closed by arrest
+20160316,2016,03,3,White,78,Male,New York,40.76641,-73.96838,Open/No arrest
+20160317,2016,03,3,Black,21,Male,New York,40.82318,-73.86654,Open/No arrest
+20160318,2016,03,3,Hispanic,37,Male,New York,40.81111,-73.90634,Open/No arrest
+20160318,2016,03,3,Black,29,Male,New York,40.81145,-73.91618,Open/No arrest
+20160319,2016,03,3,Black,26,Male,New York,40.67357,-73.80738,Open/No arrest
+20160324,2016,03,3,Hispanic,21,Male,New York,40.63349,-74.16343,Closed by arrest
+20160324,2016,03,3,Hispanic,47,Female,New York,40.63349,-74.16343,Closed by arrest
+20160324,2016,03,3,Black,34,Male,New York,40.67433,-73.88839,Open/No arrest
+20160325,2016,03,3,Hispanic,16,Male,New York,40.79634,-73.9412,Open/No arrest
+20160327,2016,03,3,Black,1,Male,New York,40.83572,-73.8513,Open/No arrest
+20160401,2016,04,4,Black,17,Male,New York,40.57483,-73.99093,Closed by arrest
+20160401,2016,04,4,White,70,Male,New York,40.72598,-73.9908,Closed by arrest
+20160403,2016,04,4,Black,21,Male,New York,40.6582,-73.95854,Closed by arrest
+20160404,2016,04,4,White,63,Male,New York,40.66182,-73.99648,Closed by arrest
+20160408,2016,04,4,Hispanic,24,Male,New York,40.85742,-73.89371,Closed by arrest
+20160409,2016,04,4,Hispanic,31,Male,New York,40.7391,-73.89677,Open/No arrest
+20160410,2016,04,4,Black,30,Male,New York,40.81607,-73.90855,Closed by arrest
+20160412,2016,04,4,Hispanic,22,Male,New York,40.7839,-73.95029,Closed by arrest
+20160413,2016,04,4,Black,21,Male,New York,40.66511,-73.89167,Closed by arrest
+20160414,2016,04,4,Black,21,Male,New York,40.63682,-74.11865,Closed by arrest
+20160414,2016,04,4,Black,23,Male,New York,40.72761,-73.97782,Closed by arrest
+20160415,2016,04,4,Hispanic,56,Male,New York,40.74082,-73.97426,Closed by arrest
+20160415,2016,04,4,Black,41,Male,New York,40.83345,-73.94341,Closed by arrest
+20160416,2016,04,4,Black,32,Male,New York,40.7035,-73.7675,Closed by arrest
+20160417,2016,04,4,Hispanic,21,Male,New York,40.80139,-73.93271,Closed by arrest
+20160417,2016,04,4,Black,19,Male,New York,40.81637,-73.86763,Open/No arrest
+20160418,2016,04,4,Hispanic,19,Male,New York,40.84769,-73.93493,Closed by arrest
+20160419,2016,04,4,Hispanic,58,Male,New York,40.86959,-73.90005,Closed by arrest
+20160419,2016,04,4,Black,24,Male,New York,40.68608,-73.91923,Closed by arrest
+20160421,2016,04,4,Black,45,Male,New York,40.6891,-73.92562,Closed by arrest
+20160423,2016,04,4,Black,30,Male,New York,40.83558,-73.9088,Open/No arrest
+20160424,2016,04,4,Hispanic,75,Male,New York,40.87285,-73.89879,Closed by arrest
+20160426,2016,04,4,Hispanic,39,Male,New York,40.69984,-73.91309,Closed by arrest
+20160427,2016,04,4,Hispanic,41,Male,New York,40.82041,-73.89333,Closed by arrest
+20160427,2016,04,4,Black,19,Male,New York,40.83457,-73.88831,Open/No arrest
+20160428,2016,04,4,Hispanic,25,Male,New York,40.86106,-73.89345,Closed by arrest
+20160429,2016,04,4,Hispanic,70,Male,New York,40.7257,-73.98824,Open/No arrest
+20160429,2016,04,4,Black,41,Male,New York,40.664,-73.89385,Open/No arrest
+20160502,2016,05,5,Hispanic,28,Male,New York,40.57851,-73.9349,Open/No arrest
+20160503,2016,05,5,Black,70,Female,New York,40.83668,-73.9156,Closed by arrest
+20160504,2016,05,5,Hispanic,37,Male,New York,40.81494,-73.88659,Closed by arrest
+20160506,2016,05,5,Black,28,Male,New York,40.69698,-73.79274,Closed by arrest
+20160507,2016,05,5,Hispanic,26,Male,New York,40.81776,-73.91802,Closed by arrest
+20160508,2016,05,5,Hispanic,19,Male,New York,40.68949,-73.90802,Closed by arrest
+20160508,2016,05,5,Black,33,Male,New York,40.67141,-73.88151,Open/No arrest
+20160509,2016,05,5,Black,35,Male,New York,40.85708,-73.90135,Open/No arrest
+20160511,2016,05,5,Hispanic,32,Male,New York,40.84169,-73.91111,Open/No arrest
+20160511,2016,05,5,Hispanic,60,Female,New York,40.81841,-73.90728,Closed by arrest
+20160511,2016,05,5,Hispanic,23,Male,New York,40.86859,-73.88331,Closed by arrest
+20160512,2016,05,5,Black,22,Male,New York,40.63722,-73.91263,Open/No arrest
+20160514,2016,05,5,Black,22,Female,New York,40.65495,-73.958,Closed by arrest
+20160514,2016,05,5,White,43,Female,New York,40.55802,-74.13042,Closed without arrest
+20160517,2016,05,5,White,29,Female,New York,40.84435,-73.81511,Closed without arrest
+20160518,2016,05,5,Black,21,Male,New York,40.64204,-73.94961,Open/No arrest
+20160518,2016,05,5,Black,17,Male,New York,40.65562,-73.91994,Open/No arrest
+20160519,2016,05,5,Black,24,Male,New York,40.68407,-73.75818,Closed by arrest
+20160519,2016,05,5,Black,18,Male,New York,40.85964,-73.86323,Closed by arrest
+20160519,2016,05,5,Black,51,Female,New York,40.67606,-74.00241,Open/No arrest
+20160520,2016,05,5,Black,26,Female,New York,40.63834,-74.16448,Closed by arrest
+20160520,2016,05,5,Black,16,Male,New York,40.76106,-73.72804,Closed by arrest
+20160525,2016,05,5,Black,33,Male,New York,40.73498,-73.98805,Closed by arrest
+20160526,2016,05,5,Hispanic,57,Male,New York,40.60516,-73.75485,Closed by arrest
+20160526,2016,05,5,Black,38,Female,New York,40.82936,-73.91905,Closed by arrest
+20160527,2016,05,5,Black,55,Male,New York,40.88731,-73.84727,Closed by arrest
+20160528,2016,05,5,Black,59,Female,New York,40.68565,-73.98049,Closed by arrest
+20160529,2016,05,5,Hispanic,19,Male,New York,40.85284,-73.88417,Closed by arrest
+20160529,2016,05,5,Black,50,Male,New York,40.63861,-73.94827,Open/No arrest
+20160530,2016,05,5,Black,64,Male,New York,40.85412,-73.88881,Closed by arrest
+20160531,2016,05,5,Black,16,Female,New York,40.6378,-73.94238,Closed by arrest
+20160531,2016,05,5,Black,46,Male,New York,40.67067,-73.93234,Closed by arrest
+20160601,2016,06,6,Black,17,Male,New York,40.69649,-73.94943,Open/No arrest
+20160603,2016,06,6,Hispanic,21,Male,New York,40.72227,-73.97634,Closed by arrest
+20160603,2016,06,6,Black,1,Female,New York,40.64475,-74.08724,Open/No arrest
+20160604,2016,06,6,Hispanic,25,Male,New York,40.70891,-73.9658,Closed by arrest
+20160605,2016,06,6,Black,25,Male,New York,40.67021,-73.92394,Open/No arrest
+20160605,2016,06,6,Black,26,Male,New York,40.67967,-73.93614,Open/No arrest
+20160606,2016,06,6,Black,23,Female,New York,40.69307,-73.99954,Closed by arrest
+20160607,2016,06,6,Hispanic,55,Male,New York,40.67085,-73.86887,Closed by arrest
+20160607,2016,06,6,Black,44,Male,New York,40.685,-73.93845,Open/No arrest
+20160611,2016,06,6,Black,28,Female,New York,40.81681,-73.90726,Open/No arrest
+20160611,2016,06,6,Black,31,Male,New York,40.82026,-73.89788,Open/No arrest
+20160611,2016,06,6,Black,32,Male,New York,40.84674,-73.90648,Open/No arrest
+20160612,2016,06,6,Hispanic,25,Male,New York,40.74544,-73.86435,Closed by arrest
+20160612,2016,06,6,Black,22,Male,New York,40.67141,-73.88151,Open/No arrest
+20160615,2016,06,6,Hispanic,29,Male,New York,40.6997,-73.98169,Closed by arrest
+20160615,2016,06,6,Hispanic,22,Male,New York,40.78601,-73.84574,Open/No arrest
+20160615,2016,06,6,Black,32,Female,New York,40.88605,-73.86144,Closed by arrest
+20160615,2016,06,6,Black,26,Male,New York,40.66623,-73.92254,Open/No arrest
+20160615,2016,06,6,Black,46,Male,New York,40.6801,-73.91256,Open/No arrest
+20160617,2016,06,6,Black,17,Male,New York,40.84728,-73.91044,Open/No arrest
+20160618,2016,06,6,Black,17,Male,New York,40.8251,-73.89486,Open/No arrest
+20160619,2016,06,6,Hispanic,25,Male,New York,40.86066,-73.89501,Closed by arrest
+20160619,2016,06,6,Black,55,Male,New York,40.68049,-73.8671,Closed by arrest
+20160620,2016,06,6,Black,32,Male,New York,40.82787,-73.86496,Open/No arrest
+20160623,2016,06,6,Black,52,Male,New York,40.67103,-73.9062,Closed by arrest
+20160623,2016,06,6,Black,83,Male,New York,40.8726,-73.82556,Closed by arrest
+20160623,2016,06,6,Black,46,Male,New York,40.81726,-73.9404,Open/No arrest
+20160626,2016,06,6,Black,30,Male,New York,40.66979,-73.95829,Open/No arrest
+20160626,2016,06,6,White,65,Male,New York,40.70919,-73.81916,Closed by arrest
+20160629,2016,06,6,Black,42,Male,New York,40.66358,-73.89665,Closed by arrest
+20160629,2016,06,6,Black,21,Male,New York,40.67573,-73.9215,Open/No arrest
+20160629,2016,06,6,Black,24,Male,New York,40.85066,-73.90892,Open/No arrest
+20160630,2016,06,6,Asian,26,Male,New York,40.67087,-73.86317,Closed by arrest
+20160630,2016,06,6,White,61,Male,New York,40.62076,-74.01055,Closed by arrest
+20160703,2016,07,7,Hispanic,68,Male,New York,40.814,-73.90078,Closed by arrest
+20160703,2016,07,7,Black,22,Female,New York,40.6911,-73.91288,Closed without arrest
+20160704,2016,07,7,Hispanic,17,Male,New York,40.84227,-73.90503,Closed by arrest
+20160704,2016,07,7,Black,37,Male,New York,40.67615,-73.89307,Closed by arrest
+20160704,2016,07,7,Black,50,Male,New York,40.68281,-73.76782,Open/No arrest
+20160705,2016,07,7,Hispanic,70,Female,New York,40.71321,-73.98388,Closed by arrest
+20160705,2016,07,7,Black,38,Female,New York,40.80106,-73.95048,Closed by arrest
+20160709,2016,07,7,Black,32,Male,New York,40.88443,-73.833,Open/No arrest
+20160710,2016,07,7,Black,25,Male,New York,40.68054,-73.95709,Open/No arrest
+20160711,2016,07,7,Hispanic,76,Male,New York,40.83798,-73.88526,Closed by arrest
+20160712,2016,07,7,Hispanic,21,Male,New York,40.86329,-73.88981,Closed by arrest
+20160715,2016,07,7,Asian,23,Male,New York,40.68214,-73.82689,Open/No arrest
+20160715,2016,07,7,Black,40,Male,New York,40.67014,-73.90893,Closed by arrest
+20160715,2016,07,7,Black,37,Male,New York,40.67014,-73.90893,Closed by arrest
+20160716,2016,07,7,Hispanic,44,Male,New York,40.81572,-73.8645,Closed by arrest
+20160717,2016,07,7,Black,23,Male,New York,40.76469,-73.91435,Closed by arrest
+20160717,2016,07,7,Black,23,Male,New York,40.652,-73.94487,Open/No arrest
+20160718,2016,07,7,Black,33,Male,New York,40.67279,-73.77365,Open/No arrest
+20160719,2016,07,7,Hispanic,24,Male,New York,40.81986,-73.92014,Open/No arrest
+20160719,2016,07,7,Black,23,Male,New York,40.67501,-74.00658,Closed by arrest
+20160720,2016,07,7,Black,33,Male,New York,40.68911,-73.94506,Open/No arrest
+20160721,2016,07,7,Hispanic,52,Female,New York,40.83974,-73.91318,Closed by arrest
+20160721,2016,07,7,White,26,Female,New York,40.69514,-73.97513,Open/No arrest
+20160722,2016,07,7,Hispanic,59,Male,New York,40.61809,-74.02785,Closed by arrest
+20160722,2016,07,7,Asian,68,Male,New York,40.75029,-73.82281,Open/No arrest
+20160723,2016,07,7,Black,18,Male,New York,40.83158,-73.9277,Closed by arrest
+20160725,2016,07,7,Hispanic,33,Male,New York,40.84598,-73.90746,Closed by arrest
+20160725,2016,07,7,Hispanic,37,Female,New York,40.84598,-73.90746,Closed by arrest
+20160725,2016,07,7,Asian,23,Male,New York,40.69239,-73.79376,Open/No arrest
+20160725,2016,07,7,Black,49,Female,New York,40.87014,-73.86931,Closed by arrest
+20160727,2016,07,7,Black,50,Male,New York,40.76446,-73.83177,Open/No arrest
+20160728,2016,07,7,Black,63,Male,New York,40.69457,-73.94324,Closed without arrest
+20160730,2016,07,7,Hispanic,0,Female,New York,40.73884,-73.9267,Closed by arrest
+20160730,2016,07,7,Black,26,Male,New York,40.6818,-73.92379,Open/No arrest
+20160801,2016,08,8,Asian,61,Female,New York,40.73698,-73.81,Closed by arrest
+20160802,2016,08,8,Hispanic,29,Male,New York,40.84233,-73.88574,Closed by arrest
+20160802,2016,08,8,Black,33,Male,New York,40.6847,-73.92474,Open/No arrest
+20160802,2016,08,8,White,30,Female,New York,40.65382,-73.85321,Closed by arrest
+20160803,2016,08,8,Hispanic,40,Male,New York,40.83684,-73.85081,Closed by arrest
+20160803,2016,08,8,Black,38,Male,New York,40.64909,-73.95578,Closed by arrest
+20160804,2016,08,8,Hispanic,30,Male,New York,40.64174,-74.07568,Open/No arrest
+20160804,2016,08,8,Black,28,Male,New York,40.62396,-73.93828,Closed by arrest
+20160804,2016,08,8,Black,24,Male,New York,40.6684,-73.86929,Closed by arrest
+20160807,2016,08,8,Black,48,Male,New York,40.66044,-73.93977,Closed by arrest
+20160807,2016,08,8,Black,23,Male,New York,40.67406,-73.91254,Open/No arrest
+20160808,2016,08,8,Black,31,Male,New York,40.80518,-73.91863,Open/No arrest
+20160809,2016,08,8,Hispanic,21,Male,New York,0,0,Open/No arrest
+20160809,2016,08,8,Black,49,Male,New York,40.8693,-73.88951,Closed by arrest
+20160810,2016,08,8,Black,35,Male,New York,40.67499,-73.91523,Open/No arrest
+20160811,2016,08,8,Black,47,Male,New York,40.81841,-73.88751,Open/No arrest
+20160812,2016,08,8,Black,22,Male,New York,40.69065,-73.90804,Open/No arrest
+20160813,2016,08,8,Asian,64,Male,New York,40.67941,-73.85859,Closed by arrest
+20160813,2016,08,8,Asian,55,Male,New York,40.67941,-73.85859,Closed by arrest
+20160814,2016,08,8,Hispanic,39,Male,New York,40.8196,-73.91819,Closed by arrest
+20160814,2016,08,8,Black,28,Male,New York,40.64079,-73.93214,Open/No arrest
+20160814,2016,08,8,White,37,Male,New York,40.68982,-73.83161,Closed by arrest
+20160816,2016,08,8,Black,27,Male,New York,40.65911,-73.92322,Open/No arrest
+20160816,2016,08,8,Black,30,Male,New York,40.6746,-73.93057,Open/No arrest
+20160817,2016,08,8,Black,17,Male,New York,40.83627,-73.91133,Open/No arrest
+20160819,2016,08,8,Hispanic,27,Male,New York,40.84711,-73.91748,Closed by arrest
+20160819,2016,08,8,Asian,9,Female,New York,40.68957,-73.83248,Closed by arrest
+20160820,2016,08,8,Black,61,Female,New York,40.81978,-73.93672,Open/No arrest
+20160821,2016,08,8,Black,30,Male,New York,40.59579,-73.98406,Closed by arrest
+20160822,2016,08,8,Black,22,Male,New York,40.6296,-73.94294,Open/No arrest
+20160828,2016,08,8,Black,26,Male,New York,40.64351,-73.90262,Open/No arrest
+20160828,2016,08,8,Black,27,Male,New York,40.67334,-73.93208,Open/No arrest
+20160828,2016,08,8,Black,25,Male,New York,40.69726,-73.97746,Open/No arrest
+20160829,2016,08,8,Black,36,Male,New York,40.63916,-73.99443,Closed by arrest
+20160831,2016,08,8,Asian,60,Female,New York,40.71074,-73.80387,Closed by arrest
+20160901,2016,09,9,Black,37,Male,New York,40.67499,-73.94585,Closed by arrest
+20160901,2016,09,9,Black,24,Male,New York,40.61591,-73.92074,Open/No arrest
+20160902,2016,09,9,Black,21,Male,New York,40.62809,-73.9461,Open/No arrest
+20160903,2016,09,9,Hispanic,22,Male,New York,40.67565,-73.92718,Open/No arrest
+20160903,2016,09,9,Hispanic,20,Male,New York,40.70285,-73.81243,Closed by arrest
+20160903,2016,09,9,Black,32,Male,New York,40.67565,-73.92718,Open/No arrest
+20160903,2016,09,9,Black,31,Male,New York,40.83294,-73.93543,Open/No arrest
+20160904,2016,09,9,Black,27,Male,New York,40.64037,-73.89052,Open/No arrest
+20160905,2016,09,9,Black,22,Female,New York,40.66334,-73.96018,Closed by arrest
+20160905,2016,09,9,Black,19,Male,New York,40.82295,-73.95198,Open/No arrest
+20160905,2016,09,9,Black,17,Male,New York,40.66313,-73.96243,Open/No arrest
+20160906,2016,09,9,Hispanic,22,Male,New York,40.67332,-73.91539,Open/No arrest
+20160906,2016,09,9,Hispanic,22,Male,New York,40.71984,-73.9624,Closed by arrest
+20160907,2016,09,9,Black,33,Male,New York,40.65368,-73.96279,Open/No arrest
+20160910,2016,09,9,Black,23,Male,New York,40.67531,-73.78805,Open/No arrest
+20160910,2016,09,9,Black,44,Male,New York,40.72653,-73.73486,Open/No arrest
+20160913,2016,09,9,Black,22,Female,New York,40.65774,-73.90914,Closed by arrest
+20160913,2016,09,9,Black,45,Female,New York,40.67267,-73.86169,Closed by arrest
+20160914,2016,09,9,Black,63,Male,New York,40.84889,-73.91614,Open/No arrest
+20160919,2016,09,9,Black,20,Male,New York,40.6864,-73.9491,Open/No arrest
+20160920,2016,09,9,Asian,36,Male,New York,40.85596,-73.8398,Open/No arrest
+20160920,2016,09,9,White,60,Male,New York,40.8308,-73.82695,Open/No arrest
+20160921,2016,09,9,Black,28,Male,New York,40.67117,-73.90969,Closed by arrest
+20160923,2016,09,9,Black,21,Male,New York,40.81972,-73.94239,Closed by arrest
+20160924,2016,09,9,Black,46,Male,New York,40.6937,-73.78092,Open/No arrest
+20160926,2016,09,9,Black,47,Female,New York,40.64107,-73.96247,Closed by arrest
+20160926,2016,09,9,Black,6,Male,New York,40.82066,-73.95639,Closed by arrest
+20160927,2016,09,9,Hispanic,21,Male,New York,40.85238,-73.91352,Open/No arrest
+20160927,2016,09,9,Black,31,Male,New York,40.67259,-73.87326,Closed by arrest
+20160927,2016,09,9,Black,40,Male,New York,40.66252,-73.92701,Open/No arrest
+20160927,2016,09,9,White,58,Female,New York,40.73288,-73.86033,Closed by arrest
+20160928,2016,09,9,Black,38,Male,New York,40.69314,-73.94586,Closed by arrest
+20160928,2016,09,9,White,25,Female,New York,40.70823,-73.91286,Closed by arrest
+20160929,2016,09,9,White,35,Female,New York,40.63867,-74.02246,Open/No arrest
+20160930,2016,09,9,Black,82,Female,New York,40.72045,-73.97491,Closed by arrest
+20161001,2016,10,10,Black,25,Female,New York,40.65096,-73.95587,Closed by arrest
+20161001,2016,10,10,Black,50,Female,New York,40.8428,-73.89708,Closed by arrest
+20161001,2016,10,10,Black,27,Male,New York,40.8428,-73.89708,Closed by arrest
+20161002,2016,10,10,Hispanic,36,Male,New York,40.87674,-73.90623,Closed by arrest
+20161002,2016,10,10,White,23,Male,New York,40.56883,-74.12118,Closed by arrest
+20161003,2016,10,10,Black,39,Male,New York,40.81052,-73.93821,Closed by arrest
+20161003,2016,10,10,Black,36,Male,New York,40.84078,-73.93625,Closed by arrest
+20161005,2016,10,10,Hispanic,38,Female,New York,40.68773,-73.93749,Closed without arrest
+20161005,2016,10,10,Black,37,Male,New York,40.67278,-73.86647,Closed by arrest
+20161006,2016,10,10,Hispanic,63,Male,New York,40.79829,-73.96267,Closed by arrest
+20161008,2016,10,10,Hispanic,56,Male,New York,40.83878,-73.8647,Closed by arrest
+20161008,2016,10,10,White,44,Male,New York,40.60635,-73.94199,Closed by arrest
+20161009,2016,10,10,Asian,69,Female,New York,40.90347,-73.84463,Open/No arrest
+20161013,2016,10,10,Hispanic,22,Male,New York,40.69342,-73.84807,Open/No arrest
+20161013,2016,10,10,Hispanic,47,Male,New York,40.85919,-73.90068,Open/No arrest
+20161013,2016,10,10,Black,0,Male,New York,40.83342,-73.90001,Open/No arrest
+20161015,2016,10,10,Hispanic,19,Male,New York,40.84194,-73.91425,Open/No arrest
+20161017,2016,10,10,Black,18,Male,New York,40.82226,-73.94054,Closed by arrest
+20161023,2016,10,10,Hispanic,28,Male,New York,40.8127,-73.92162,Closed by arrest
+20161029,2016,10,10,Black,44,Female,New York,40.67847,-73.78245,Closed by arrest
+20161030,2016,10,10,Black,36,Male,New York,40.69723,-73.78432,Closed by arrest
+20161030,2016,10,10,Black,70,Male,New York,40.84628,-73.89206,Open/No arrest
+20161101,2016,11,11,Hispanic,25,Male,New York,40.82146,-73.8662,Open/No arrest
+20161101,2016,11,11,Black,31,Male,New York,40.66937,-73.92039,Closed by arrest
+20161102,2016,11,11,Hispanic,45,Female,New York,40.81932,-73.91538,Closed by arrest
+20161103,2016,11,11,Hispanic,45,Female,New York,40.82995,-73.93005,Closed by arrest
+20161104,2016,11,11,White,41,Male,New York,40.83713,-73.86719,Closed without arrest
+20161107,2016,11,11,Asian,49,Female,New York,40.75353,-73.99454,Closed by arrest
+20161108,2016,11,11,Black,38,Male,New York,40.85895,-73.92293,Closed without arrest
+20161111,2016,11,11,Hispanic,49,Male,New York,40.66358,-73.89665,Closed by arrest
+20161113,2016,11,11,White,26,Male,New York,40.75915,-73.96084,Closed by arrest
+20161113,2016,11,11,White,22,Male,New York,40.86189,-73.85766,Open/No arrest
+20161114,2016,11,11,Hispanic,45,Male,New York,40.67626,-73.88404,Closed by arrest
+20161120,2016,11,11,Hispanic,19,Male,New York,40.82388,-73.89186,Closed by arrest
+20161122,2016,11,11,White,30,Male,New York,40.66853,-73.8485,Closed by arrest
+20161123,2016,11,11,Black,37,Male,New York,40.8248,-73.90818,Closed by arrest
+20161123,2016,11,11,Black,22,Male,New York,40.67844,-73.92743,Open/No arrest
+20161124,2016,11,11,Hispanic,23,Male,New York,40.74342,-73.87847,Closed by arrest
+20161126,2016,11,11,Hispanic,58,Male,New York,40.62107,-74.08496,Open/No arrest
+20161126,2016,11,11,Black,44,Female,New York,40.87418,-73.83387,Closed by arrest
+20161127,2016,11,11,Black,74,Male,New York,40.79033,-73.94171,Open/No arrest
+20161128,2016,11,11,Black,22,Female,New York,40.84978,-73.93753,Closed without arrest
+20161128,2016,11,11,Black,24,Male,New York,40.82342,-73.90158,Open/No arrest
+20161130,2016,11,11,Hispanic,27,Female,New York,40.66753,-73.86425,Open/No arrest
+20161130,2016,11,11,Hispanic,32,Male,New York,40.66786,-73.90539,Closed by arrest
+20161130,2016,11,11,Hispanic,21,Male,New York,40.6912,-73.83546,Closed by arrest
+20161201,2016,12,12,White,55,Female,New York,40.84169,-73.83704,Closed by arrest
+20161203,2016,12,12,White,68,Male,New York,40.83768,-73.91326,Closed by arrest
+20161204,2016,12,12,Black,25,Female,New York,40.62699,-73.91402,Closed by arrest
+20161205,2016,12,12,Asian,46,Female,New York,40.68914,-73.82085,Closed by arrest
+20161207,2016,12,12,Black,21,Male,New York,40.63869,-73.91681,Open/No arrest
+20161209,2016,12,12,Hispanic,24,Female,New York,40.79909,-73.94762,Closed by arrest
+20161211,2016,12,12,Hispanic,31,Male,New York,40.70381,-73.95286,Closed by arrest
+20161211,2016,12,12,Hispanic,41,Male,New York,40.84598,-73.90746,Closed by arrest
+20161211,2016,12,12,Black,21,Male,New York,40.66976,-73.80265,Closed by arrest
+20161213,2016,12,12,Black,26,Male,New York,40.82099,-73.89223,Closed by arrest
+20161213,2016,12,12,Black,32,Male,New York,40.67907,-73.91507,Open/No arrest
+20161214,2016,12,12,Black,32,Male,New York,40.80941,-73.94437,Open/No arrest
+20161217,2016,12,12,Black,27,Male,New York,40.75387,-73.98482,Closed by arrest
+20161218,2016,12,12,Black,19,Male,New York,40.65759,-73.92905,Open/No arrest
+20161219,2016,12,12,Black,22,Male,New York,40.80662,-73.93677,Closed by arrest
+20161220,2016,12,12,Black,24,Male,New York,40.83987,-73.88814,Closed by arrest
+20161221,2016,12,12,Black,46,Male,New York,40.67803,-73.96381,Open/No arrest
+20161225,2016,12,12,Black,30,Male,New York,40.64633,-73.9298,Open/No arrest
+20161226,2016,12,12,Hispanic,36,Female,New York,40.83211,-73.94829,Closed by arrest
+20161226,2016,12,12,Hispanic,4,Male,New York,40.83211,-73.94829,Closed by arrest
+20161226,2016,12,12,Black,31,Male,New York,40.62424,-74.08076,Closed by arrest
+20161230,2016,12,12,Black,27,Male,New York,40.83732,-73.91012,Open/No arrest
+20161231,2016,12,12,Unknown,39,Male,New York,40.64827,-73.95575,Open/No arrest
+20170101,2017,01,1,Hispanic,0,Female,New York,40.84538,-73.8821,Closed by arrest
+20170102,2017,01,1,Hispanic,42,Male,New York,40.83113,-73.89037,Closed by arrest
+20170102,2017,01,1,Black,31,Male,New York,40.68667,-73.8196,Closed by arrest
+20170103,2017,01,1,Asian,1,Female,New York,40.74467,-73.87855,Closed by arrest
+20170104,2017,01,1,Hispanic,28,Female,New York,40.72034,-73.97848,Closed by arrest
+20170104,2017,01,1,White,56,Male,New York,40.78386,-73.97595,Closed by arrest
+20170106,2017,01,1,Hispanic,48,Female,New York,40.84052,-73.87982,Open/No arrest
+20170107,2017,01,1,Asian,0,Male,New York,40.5892,-74.16281,Closed by arrest
+20170110,2017,01,1,White,59,Male,New York,40.78245,-73.96588,Closed by arrest
+20170112,2017,01,1,Hispanic,44,Female,New York,40.65222,-73.95786,Closed by arrest
+20170117,2017,01,1,Black,32,Female,New York,40.64976,-73.95038,Closed by arrest
+20170117,2017,01,1,White,86,Female,New York,40.70651,-73.89284,Closed by arrest
+20170121,2017,01,1,Hispanic,42,Female,New York,40.57612,-73.99983,Closed by arrest
+20170122,2017,01,1,Hispanic,6,Male,New York,40.68983,-73.80109,Closed by arrest
+20170123,2017,01,1,Hispanic,52,Female,New York,40.86893,-73.90277,Closed by arrest
+20170124,2017,01,1,Hispanic,24,Male,New York,40.69844,-73.83113,Open/No arrest
+20170124,2017,01,1,White,57,Male,New York,40.58742,-74.0977,Closed by arrest
+20170124,2017,01,1,White,52,Male,New York,40.58742,-74.0977,Closed by arrest
+20170125,2017,01,1,Black,53,Male,New York,40.64148,-73.96157,Closed by arrest
+20170125,2017,01,1,Black,22,Male,New York,40.80714,-73.95288,Closed by arrest
+20170126,2017,01,1,Hispanic,3,Male,New York,40.79409,-73.93681,Open/No arrest
+20170126,2017,01,1,Black,4,Male,New York,40.66053,-73.91181,Closed by arrest
+20170129,2017,01,1,Asian,33,Male,New York,40.74773,-73.98684,Closed by arrest
+20170130,2017,01,1,Black,29,Male,New York,40.67967,-73.93614,Closed by arrest
+20170202,2017,02,2,Hispanic,44,Male,New York,40.66431,-73.91862,Open/No arrest
+20170202,2017,02,2,Hispanic,3,Male,New York,40.59562,-73.97632,Closed by arrest
+20170202,2017,02,2,Black,46,Male,New York,40.81912,-73.91018,Closed by arrest
+20170203,2017,02,2,Black,44,Male,New York,40.80427,-73.91929,Open/No arrest
+20170204,2017,02,2,Black,28,Male,New York,40.74348,-73.874,Closed by arrest
+20170205,2017,02,2,Black,22,Male,New York,40.63657,-73.90945,Open/No arrest
+20170208,2017,02,2,Black,18,Male,New York,40.83309,-73.91631,Open/No arrest
+20170208,2017,02,2,White,66,Male,New York,40.60932,-74.0129,Closed by arrest
+20170211,2017,02,2,Black,41,Male,New York,40.66205,-73.89625,Closed by arrest
+20170214,2017,02,2,Black,0,Female,New York,40.68508,-73.92799,Closed by arrest
+20170215,2017,02,2,Black,58,Male,New York,40.65267,-73.89674,Open/No arrest
+20170215,2017,02,2,Black,22,Male,New York,40.67844,-73.80408,Open/No arrest
+20170215,2017,02,2,White,43,Male,New York,40.71627,-74.00689,Open/No arrest
+20170217,2017,02,2,Hispanic,20,Male,New York,40.67378,-73.8696,Closed by arrest
+20170217,2017,02,2,Black,40,Male,New York,40.80111,-73.93469,Closed by arrest
+20170220,2017,02,2,Black,15,Male,New York,40.65628,-73.92602,Closed by arrest
+20170221,2017,02,2,Black,69,Female,New York,40.69321,-73.79959,Closed by arrest
+20170222,2017,02,2,Asian,44,Male,New York,40.83275,-73.82493,Closed by arrest
+20170225,2017,02,2,Hispanic,24,Female,New York,40.83211,-73.94829,Closed by arrest
+20170226,2017,02,2,Black,51,Male,New York,40.59621,-73.7647,Closed by arrest
+20170227,2017,02,2,Black,78,Female,New York,40.64294,-73.93526,Closed by arrest
+20170228,2017,02,2,Black,70,Male,New York,40.83039,-73.89403,Closed without arrest
+20170302,2017,03,3,Black,36,Male,New York,40.86189,-73.89321,Open/No arrest
+20170303,2017,03,3,Hispanic,43,Female,New York,40.82969,-73.92116,Closed by arrest
+20170306,2017,03,3,White,45,Male,New York,40.73041,-73.95205,Closed by arrest
+20170307,2017,03,3,Black,19,Male,New York,40.67967,-73.93614,Open/No arrest
+20170311,2017,03,3,White,77,Male,New York,40.65928,-73.93412,Closed by arrest
+20170312,2017,03,3,Black,27,Male,New York,40.85111,-73.93526,Open/No arrest
+20170314,2017,03,3,Hispanic,39,Male,New York,40.8205,-73.82129,Closed by arrest
+20170315,2017,03,3,Black,19,Male,New York,40.64932,-73.91476,Closed by arrest
+20170316,2017,03,3,Hispanic,50,Male,New York,40.67216,-73.76661,Closed by arrest
+20170316,2017,03,3,Hispanic,44,Male,New York,40.82843,-73.86068,Closed by arrest
+20170316,2017,03,3,Black,30,Male,New York,40.82093,-73.94332,Open/No arrest
+20170319,2017,03,3,Black,22,Male,New York,40.70878,-73.9226,Closed by arrest
+20170320,2017,03,3,Hispanic,1,Female,New York,40.57508,-74.09622,Closed by arrest
+20170320,2017,03,3,Black,66,Male,New York,40.75438,-73.99559,Closed by arrest
+20170323,2017,03,3,Black,70,Female,New York,40.66806,-73.93537,Closed by arrest
+20170327,2017,03,3,Black,21,Female,New York,40.82309,-73.90299,Closed by arrest
+20170329,2017,03,3,Black,46,Male,New York,40.87433,-73.87934,Closed by arrest
+20170329,2017,03,3,Black,23,Male,New York,40.68184,-73.76588,Open/No arrest
+20170330,2017,03,3,White,59,Male,New York,0,0,Open/No arrest
+20170331,2017,03,3,Black,42,Male,New York,40.63278,-74.14682,Closed by arrest
+20170401,2017,04,4,Hispanic,26,Male,New York,40.65004,-73.95581,Closed by arrest
+20170402,2017,04,4,Hispanic,26,Female,New York,40.87923,-73.86261,Open/No arrest
+20170404,2017,04,4,Black,27,Male,New York,40.62385,-74.08198,Closed by arrest
+20170409,2017,04,4,Black,41,Male,New York,40.68962,-73.96015,Closed by arrest
+20170410,2017,04,4,Hispanic,53,Male,New York,40.70713,-73.96661,Closed by arrest
+20170411,2017,04,4,Hispanic,56,Male,New York,40.8268,-73.89141,Closed by arrest
+20170411,2017,04,4,Black,68,Female,New York,40.65823,-73.92068,Closed by arrest
+20170411,2017,04,4,Black,28,Male,New York,40.70926,-73.94608,Closed by arrest
+20170411,2017,04,4,Black,21,Male,New York,40.84709,-73.8867,Closed by arrest
+20170411,2017,04,4,Black,20,Male,New York,40.64732,-73.95417,Open/No arrest
+20170413,2017,04,4,Hispanic,1,Female,New York,40.67596,-74.00335,Closed by arrest
+20170413,2017,04,4,Black,28,Male,New York,40.66194,-73.92103,Open/No arrest
+20170416,2017,04,4,Black,27,Male,New York,40.84265,-73.91299,Closed by arrest
+20170416,2017,04,4,Black,23,Male,New York,40.6348,-73.91838,Open/No arrest
+20170418,2017,04,4,Black,30,Male,New York,40.67619,-73.94434,Closed by arrest
+20170422,2017,04,4,Black,37,Male,New York,40.59815,-73.7669,Open/No arrest
+20170425,2017,04,4,Black,59,Female,New York,40.74693,-73.99359,Closed by arrest
+20170427,2017,04,4,Hispanic,24,Male,New York,40.7886,-73.97612,Open/No arrest
+20170428,2017,04,4,Black,22,Male,New York,40.70903,-73.94092,Closed by arrest
+20170428,2017,04,4,Black,41,Male,New York,40.88595,-73.82259,Closed by arrest
+20170429,2017,04,4,White,27,Male,New York,40.6341,-73.95797,Closed by arrest
+20170501,2017,05,5,Hispanic,45,Male,New York,40.65867,-73.76771,Open/No arrest
+20170501,2017,05,5,Black,28,Male,New York,40.63548,-73.89156,Closed by arrest
+20170501,2017,05,5,Black,41,Female,New York,40.65838,-73.87543,Closed without arrest
+20170505,2017,05,5,Hispanic,57,Male,New York,40.69847,-73.91777,Open/No arrest
+20170505,2017,05,5,Black,47,Male,New York,40.68905,-73.95862,Open/No arrest
+20170509,2017,05,5,Black,24,Female,New York,40.79189,-73.94752,Closed by arrest
+20170512,2017,05,5,Unknown,44,Male,New York,40.8128,-73.94366,Closed by arrest
+20170514,2017,05,5,Black,38,Male,New York,40.66417,-73.75168,Open/No arrest
+20170515,2017,05,5,Black,38,Male,New York,40.79862,-73.95228,Closed by arrest
+20170515,2017,05,5,Black,38,Male,New York,40.75568,-73.94804,Open/No arrest
+20170516,2017,05,5,Asian,37,Male,New York,40.6787,-73.88858,Closed by arrest
+20170518,2017,05,5,Hispanic,69,Male,New York,40.86629,-73.92031,Closed by arrest
+20170518,2017,05,5,Hispanic,23,Male,New York,40.68602,-73.85366,Open/No arrest
+20170518,2017,05,5,White,18,Female,New York,40.75604,-73.98695,Closed by arrest
+20170520,2017,05,5,Black,24,Male,New York,40.84934,-73.91793,Closed by arrest
+20170521,2017,05,5,Hispanic,16,Male,New York,40.76016,-73.76742,Open/No arrest
+20170521,2017,05,5,Black,35,Male,New York,40.64287,-73.93623,Open/No arrest
+20170524,2017,05,5,Black,29,Male,New York,40.70369,-73.93988,Closed by arrest
+20170526,2017,05,5,Hispanic,30,Female,New York,40.57999,-74.00273,Closed by arrest
+20170527,2017,05,5,Black,28,Male,New York,40.67604,-73.80103,Closed by arrest
+20170527,2017,05,5,Black,21,Male,New York,40.65,-73.93215,Open/No arrest
+20170528,2017,05,5,Hispanic,62,Male,New York,40.67609,-73.96131,Open/No arrest
+20170530,2017,05,5,Hispanic,39,Male,New York,40.76163,-73.80382,Closed by arrest
+20170531,2017,05,5,Black,66,Male,New York,40.81928,-73.85439,Closed by arrest
+20170531,2017,05,5,Black,18,Male,New York,40.88352,-73.85608,Open/No arrest
+20170531,2017,05,5,Black,45,Male,New York,40.83214,-73.84951,Open/No arrest
+20170602,2017,06,6,Hispanic,26,Male,New York,40.69569,-73.93114,Closed by arrest
+20170603,2017,06,6,Black,26,Male,New York,40.64831,-73.89554,Closed by arrest
+20170603,2017,06,6,Black,22,Male,New York,40.82722,-73.87981,Closed by arrest
+20170609,2017,06,6,Hispanic,24,Male,New York,40.83995,-73.87655,Open/No arrest
+20170609,2017,06,6,Black,17,Male,New York,40.68701,-73.91768,Open/No arrest
+20170609,2017,06,6,Black,30,Male,New York,40.69678,-73.7785,Open/No arrest
+20170615,2017,06,6,Black,3,Male,New York,40.68952,-73.83664,Closed by arrest
+20170617,2017,06,6,Black,26,Male,New York,40.67095,-73.92109,Closed by arrest
+20170617,2017,06,6,Black,46,Male,New York,40.67743,-73.92928,Closed by arrest
+20170618,2017,06,6,Black,1,Female,New York,40.57186,-73.99788,Closed by arrest
+20170618,2017,06,6,Black,47,Male,New York,40.58996,-73.80958,Closed by arrest
+20170619,2017,06,6,White,20,Male,New York,40.66212,-73.98391,Closed by arrest
+20170619,2017,06,6,White,57,Male,New York,40.70417,-73.99061,Open/No arrest
+20170621,2017,06,6,Black,29,Male,New York,40.66649,-73.92162,Closed by arrest
+20170623,2017,06,6,Black,27,Male,New York,40.6639,-73.88058,Closed by arrest
+20170623,2017,06,6,Black,23,Female,New York,40.6639,-73.88058,Closed by arrest
+20170624,2017,06,6,Asian,50,Male,New York,40.67439,-73.88794,Open/No arrest
+20170625,2017,06,6,Black,34,Male,New York,40.80964,-73.89004,Closed by arrest
+20170626,2017,06,6,Asian,26,Male,New York,40.69272,-73.82928,Closed by arrest
+20170629,2017,06,6,Black,22,Male,New York,40.8345,-73.91337,Open/No arrest
+20170630,2017,06,6,Asian,32,Male,New York,40.84376,-73.91175,Closed without arrest
+20170630,2017,06,6,Black,19,Male,New York,40.61433,-74.08582,Closed by arrest
+20170630,2017,06,6,Black,31,Male,New York,40.81637,-73.86763,Open/No arrest
+20170701,2017,07,7,Black,23,Male,New York,40.81572,-73.8645,Closed by arrest
+20170702,2017,07,7,Hispanic,32,Male,New York,40.70748,-73.78869,Open/No arrest
+20170702,2017,07,7,Black,48,Male,New York,40.66776,-73.92983,Open/No arrest
+20170703,2017,07,7,Black,55,Female,New York,40.68675,-73.94604,Closed by arrest
+20170705,2017,07,7,Hispanic,48,Female,New York,40.8581,-73.90191,Closed without arrest
+20170705,2017,07,7,Black,28,Female,New York,40.69933,-73.78649,Closed by arrest
+20170705,2017,07,7,Black,28,Male,New York,40.69933,-73.78649,Closed by arrest
+20170705,2017,07,7,Black,51,Male,New York,40.86021,-73.89289,Closed by arrest
+20170705,2017,07,7,Black,22,Male,New York,40.879,-73.86459,Closed by arrest
+20170707,2017,07,7,Black,25,Male,New York,40.81722,-73.95347,Closed by arrest
+20170707,2017,07,7,Black,20,Male,New York,40.87817,-73.84445,Open/No arrest
+20170708,2017,07,7,Hispanic,56,Male,New York,40.84587,-73.91589,Open/No arrest
+20170710,2017,07,7,Hispanic,53,Male,New York,40.8069,-73.91556,Open/No arrest
+20170710,2017,07,7,Black,3,Male,New York,40.88497,-73.89129,Open/No arrest
+20170710,2017,07,7,Black,2,Female,New York,40.88497,-73.89129,Open/No arrest
+20170711,2017,07,7,Black,20,Male,New York,40.64937,-73.96087,Open/No arrest
+20170712,2017,07,7,Black,21,Female,New York,40.68807,-73.93457,Closed by arrest
+20170712,2017,07,7,Black,29,Female,New York,40.68807,-73.93457,Closed by arrest
+20170713,2017,07,7,Black,22,Male,New York,40.65166,-73.91737,Closed by arrest
+20170713,2017,07,7,Black,31,Male,New York,40.8066,-73.91186,Open/No arrest
+20170713,2017,07,7,White,55,Male,New York,40.67639,-73.84353,Closed by arrest
+20170714,2017,07,7,Black,28,Male,New York,40.61004,-73.75359,Closed by arrest
+20170714,2017,07,7,Black,42,Male,New York,40.6532,-73.96621,Closed by arrest
+20170715,2017,07,7,Black,32,Female,New York,40.73611,-73.98065,Closed by arrest
+20170716,2017,07,7,Black,26,Male,New York,40.76063,-73.93609,Open/No arrest
+20170717,2017,07,7,Hispanic,19,Male,New York,40.64459,-73.89267,Open/No arrest
+20170717,2017,07,7,Black,70,Female,New York,40.6478,-73.89438,Closed by arrest
+20170720,2017,07,7,Hispanic,47,Female,New York,40.84854,-73.8885,Open/No arrest
+20170720,2017,07,7,Asian,55,Female,New York,40.80323,-73.91298,Closed without arrest
+20170720,2017,07,7,Black,31,Male,New York,40.58106,-73.96421,Closed by arrest
+20170722,2017,07,7,Black,26,Male,New York,40.70102,-73.9848,Open/No arrest
+20170723,2017,07,7,Black,33,Male,New York,40.69433,-73.93512,Closed by arrest
+20170725,2017,07,7,Hispanic,25,Male,New York,40.88683,-73.82011,Closed by arrest
+20170725,2017,07,7,Black,27,Male,New York,40.656,-73.90436,Closed by arrest
+20170725,2017,07,7,Black,35,Male,New York,40.66548,-73.74751,Closed by arrest
+20170728,2017,07,7,Black,73,Male,New York,40.66341,-73.7567,Open/No arrest
+20170730,2017,07,7,White,48,Male,New York,40.58749,-73.95877,Closed by arrest
+20170731,2017,07,7,Black,38,Male,New York,40.83381,-73.90829,Open/No arrest
+20170802,2017,08,8,Black,55,Male,New York,40.75176,-73.97373,Closed by arrest
+20170807,2017,08,8,Black,34,Male,New York,40.88313,-73.86137,Closed by arrest
+20170809,2017,08,8,White,52,Female,New York,40.6297,-74.0138,Closed by arrest
+20170810,2017,08,8,Hispanic,31,Male,New York,40.63548,-74.1167,Open/No arrest
+20170812,2017,08,8,Hispanic,24,Male,New York,40.73838,-73.88616,Closed by arrest
+20170813,2017,08,8,Hispanic,44,Male,New York,40.82414,-73.91717,Closed by arrest
+20170813,2017,08,8,White,23,Male,New York,40.62639,-73.91267,Closed by arrest
+20170815,2017,08,8,Black,21,Female,New York,40.69955,-73.75647,Open/No arrest
+20170818,2017,08,8,Black,21,Male,New York,40.69917,-73.79207,Closed by arrest
+20170818,2017,08,8,White,42,Male,New York,40.72454,-73.94243,Closed by arrest
+20170819,2017,08,8,Asian,42,Male,New York,40.69101,-73.81152,Open/No arrest
+20170820,2017,08,8,Black,49,Male,New York,40.65655,-73.91851,Closed by arrest
+20170822,2017,08,8,Black,35,Male,New York,40.82849,-73.90555,Closed by arrest
+20170825,2017,08,8,Black,33,Male,New York,40.66424,-73.90843,Open/No arrest
+20170827,2017,08,8,Black,28,Male,New York,40.64879,-73.92038,Closed by arrest
+20170829,2017,08,8,Hispanic,33,Female,New York,40.83668,-73.9238,Open/No arrest
+20170829,2017,08,8,Black,24,Male,New York,40.82124,-73.90435,Closed by arrest
+20170902,2017,09,9,White,35,Male,New York,40.61378,-73.91645,Closed by arrest
+20170903,2017,09,9,Hispanic,56,Male,New York,40.69526,-73.90086,Closed by arrest
+20170903,2017,09,9,Black,49,Male,New York,40.67903,-73.95083,Open/No arrest
+20170905,2017,09,9,Black,63,Female,New York,40.62705,-73.94449,Closed by arrest
+20170906,2017,09,9,Black,21,Male,New York,40.84426,-73.88106,Closed by arrest
+20170906,2017,09,9,Black,67,Male,New York,40.70396,-73.96315,Open/No arrest
+20170910,2017,09,9,Hispanic,53,Female,New York,40.81999,-73.944,Closed without arrest
+20170913,2017,09,9,Hispanic,17,Male,New York,40.79548,-73.94604,Open/No arrest
+20170916,2017,09,9,Black,20,Male,New York,40.67198,-73.9575,Open/No arrest
+20170917,2017,09,9,Hispanic,34,Female,New York,40.66785,-73.79203,Closed by arrest
+20170920,2017,09,9,Hispanic,47,Male,New York,40.68488,-73.97955,Open/No arrest
+20170920,2017,09,9,Black,58,Male,New York,40.79896,-73.95031,Open/No arrest
+20170922,2017,09,9,Hispanic,46,Male,New York,40.82103,-73.9376,Closed by arrest
+20170925,2017,09,9,Hispanic,44,Female,New York,40.82839,-73.90283,Closed by arrest
+20170926,2017,09,9,Hispanic,39,Male,New York,40.87112,-73.89852,Closed by arrest
+20170927,2017,09,9,Black,15,Male,New York,40.844,-73.88476,Closed by arrest
+20170928,2017,09,9,Hispanic,53,Male,New York,40.85618,-73.90315,Open/No arrest
+20170929,2017,09,9,Black,51,Male,New York,40.65246,-73.90895,Closed by arrest
+20170929,2017,09,9,Black,49,Female,New York,40.67881,-73.83423,Closed by arrest
+20170929,2017,09,9,Black,29,Male,New York,40.86433,-73.86739,Closed by arrest
+20170930,2017,09,9,Hispanic,40,Male,New York,40.83314,-73.86563,Closed by arrest
+20170930,2017,09,9,Black,51,Male,New York,40.63981,-74.11433,Open/No arrest
+20170930,2017,09,9,Black,61,Male,New York,40.6823,-73.91299,Open/No arrest
+20170930,2017,09,9,Black,18,Male,New York,40.80106,-73.95048,Open/No arrest
+20171001,2017,10,10,Black,41,Male,New York,40.8608,-73.85752,Open/No arrest
+20171005,2017,10,10,White,37,Male,New York,40.78451,-73.97548,Closed without arrest
+20171006,2017,10,10,Hispanic,41,Male,New York,40.69587,-73.92401,Open/No arrest
+20171007,2017,10,10,Black,34,Male,New York,40.68033,-73.93843,Open/No arrest
+20171011,2017,10,10,Black,31,Female,New York,40.57475,-73.98712,Closed by arrest
+20171012,2017,10,10,Hispanic,19,Male,New York,40.68313,-73.98743,Closed by arrest
+20171012,2017,10,10,Black,24,Male,New York,40.75995,-73.87367,Open/No arrest
+20171013,2017,10,10,Hispanic,20,Male,New York,40.85873,-73.90154,Closed by arrest
+20171013,2017,10,10,Black,24,Male,New York,40.83435,-73.90847,Closed by arrest
+20171018,2017,10,10,Black,23,Male,New York,40.68035,-73.93004,Open/No arrest
+20171020,2017,10,10,Black,44,Male,New York,40.64048,-73.94846,Closed by arrest
+20171021,2017,10,10,Hispanic,17,Male,New York,40.5779,-73.9601,Closed by arrest
+20171021,2017,10,10,Black,36,Male,New York,40.84932,-73.91236,Open/No arrest
+20171023,2017,10,10,Asian,64,Male,New York,40.68515,-73.84292,Closed by arrest
+20171024,2017,10,10,Hispanic,63,Female,New York,40.86334,-73.92908,Closed by arrest
+20171025,2017,10,10,Black,26,Male,New York,40.70141,-73.98381,Closed by arrest
+20171028,2017,10,10,Black,28,Male,New York,40.62323,-74.14923,Open/No arrest
+20171029,2017,10,10,Hispanic,43,Male,New York,40.84819,-73.93617,Closed by arrest
+20171029,2017,10,10,Black,38,Female,New York,40.74016,-73.97657,Closed by arrest
+20171029,2017,10,10,White,42,Female,New York,40.57559,-74.01071,Closed by arrest
+20171031,2017,10,10,Hispanic,47,Male,New York,40.72905,-74.01072,Closed by arrest
+20171031,2017,10,10,Hispanic,47,Male,New York,40.72905,-74.01072,Closed by arrest
+20171031,2017,10,10,Hispanic,47,Male,New York,40.72905,-74.01072,Closed by arrest
+20171031,2017,10,10,Hispanic,48,Male,New York,40.72905,-74.01072,Closed by arrest
+20171031,2017,10,10,Hispanic,48,Male,New York,40.72905,-74.01072,Closed by arrest
+20171031,2017,10,10,Hispanic,16,Male,New York,40.81637,-73.86763,Open/No arrest
+20171031,2017,10,10,White,23,Male,New York,40.72905,-74.01072,Closed by arrest
+20171031,2017,10,10,White,32,Male,New York,40.72905,-74.01072,Closed by arrest
+20171031,2017,10,10,White,31,Female,New York,40.72905,-74.01072,Closed by arrest
+20171101,2017,11,11,Hispanic,22,Female,New York,40.82789,-73.87519,Closed by arrest
+20171101,2017,11,11,Black,25,Male,New York,40.66569,-73.89862,Open/No arrest
+20171101,2017,11,11,White,56,Female,New York,40.72882,-73.99007,Closed by arrest
+20171103,2017,11,11,Hispanic,22,Male,New York,40.88902,-73.8642,Closed by arrest
+20171103,2017,11,11,Black,23,Male,New York,40.724,-73.97582,Closed by arrest
+20171103,2017,11,11,Black,23,Male,New York,40.67152,-73.76004,Open/No arrest
+20171104,2017,11,11,Black,16,Male,New York,40.65691,-73.88509,Open/No arrest
+20171104,2017,11,11,Black,38,Male,New York,40.66111,-73.76692,Open/No arrest
+20171107,2017,11,11,Hispanic,17,Female,New York,40.57391,-74.00049,Closed by arrest
+20171109,2017,11,11,Asian,58,Male,New York,40.62715,-74.00749,Closed by arrest
+20171109,2017,11,11,Asian,56,Female,New York,40.62715,-74.00749,Closed by arrest
+20171109,2017,11,11,White,65,Male,New York,40.63933,-74.02355,Closed by arrest
+20171111,2017,11,11,Hispanic,27,Male,New York,40.8484,-73.8932,Open/No arrest
+20171113,2017,11,11,Black,39,Male,New York,40.68224,-73.7942,Closed by arrest
+20171118,2017,11,11,Hispanic,22,Male,New York,40.74687,-73.87716,Open/No arrest
+20171120,2017,11,11,Black,33,Male,New York,40.82093,-73.91002,Closed by arrest
+20171121,2017,11,11,Black,38,Male,New York,40.64437,-73.87799,Closed by arrest
+20171124,2017,11,11,Black,20,Male,New York,40.70009,-73.94079,Closed by arrest
+20171127,2017,11,11,Asian,63,Female,New York,40.63974,-74.11322,Closed by arrest
+20171130,2017,11,11,Hispanic,45,Female,New York,40.82909,-73.91351,Closed by arrest
+20171202,2017,12,12,Hispanic,40,Male,New York,40.63898,-74.17125,Closed by arrest
+20171202,2017,12,12,Black,20,Male,New York,40.76005,-73.93714,Closed by arrest
+20171202,2017,12,12,Black,30,Male,New York,40.66252,-73.92701,Open/No arrest
+20171203,2017,12,12,Hispanic,27,Male,New York,40.8462,-73.93845,Open/No arrest
+20171203,2017,12,12,Asian,23,Male,New York,40.68889,-73.81735,Closed by arrest
+20171207,2017,12,12,Hispanic,17,Male,New York,40.68303,-73.91314,Open/No arrest
+20171210,2017,12,12,Black,37,Male,New York,40.6344,-73.94153,Closed by arrest
+20171210,2017,12,12,Black,29,Male,New York,40.70135,-73.76628,Closed by arrest
+20171211,2017,12,12,Hispanic,61,Male,New York,40.85407,-73.90478,Closed by arrest
+20171212,2017,12,12,Hispanic,25,Male,New York,40.74259,-73.88503,Open/No arrest
+20171212,2017,12,12,Asian,80,Male,New York,40.66136,-73.87926,Closed by arrest
+20171214,2017,12,12,Black,49,Male,New York,40.79829,-73.94187,Closed by arrest
+20171216,2017,12,12,Hispanic,28,Male,New York,40.81973,-73.84819,Open/No arrest
+20171216,2017,12,12,Hispanic,48,Male,New York,40.80118,-73.96146,Open/No arrest
+20171216,2017,12,12,Black,39,Male,New York,40.70979,-73.75126,Open/No arrest
+20171216,2017,12,12,Black,32,Male,New York,40.67074,-73.93372,Open/No arrest
+20171216,2017,12,12,Black,24,Male,New York,40.67965,-73.92539,Open/No arrest
+20171219,2017,12,12,Hispanic,27,Male,New York,40.76016,-73.98395,Closed by arrest
+20171219,2017,12,12,Black,20,Male,New York,40.69383,-73.82211,Closed by arrest
+20171220,2017,12,12,Hispanic,19,Male,New York,40.71124,-73.95777,Open/No arrest
+20171221,2017,12,12,Black,19,Male,New York,40.68675,-73.94604,Open/No arrest
+20171221,2017,12,12,White,35,Female,New York,40.62946,-74.14431,Closed by arrest
+20171226,2017,12,12,Hispanic,16,Male,New York,40.83797,-73.91595,Closed by arrest
+20171227,2017,12,12,Hispanic,31,Male,New York,40.84651,-73.92099,Open/No arrest
+20171227,2017,12,12,White,22,Female,New York,40.67196,-73.93962,Closed by arrest
+20171227,2017,12,12,White,74,Male,New York,40.75492,-73.97248,Open/No arrest
+20171228,2017,12,12,Black,16,Male,New York,40.84561,-73.85884,Closed by arrest
+20171229,2017,12,12,Unknown,38,Unknown,New York,40.81173,-73.89158,Open/No arrest
+,,,,,,,,,,
