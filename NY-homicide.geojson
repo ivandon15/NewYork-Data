@@ -3541,27 +3541,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "reported_date":"20160809",
-    "reported_date_year":2016,
-    "reported_date_mon":8,
-    "victim_race":"Hispanic",
-    "victim_age":21,
-    "victim_sex":"Male",
-    "city":"New York",
-    "disposition":"Open/No arrest"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -73.88951,40.8693 ]
     },
     "properties": {
-    "reported_date":"20160809",
+    "reported_date":" ",
     "reported_date_year":2016,
     "reported_date_mon":8,
     "victim_race":"Black",
