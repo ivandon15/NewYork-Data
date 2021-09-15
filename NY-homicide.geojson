@@ -6771,23 +6771,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "reported_date":"20170330",
-    "reported_date_year":2017,
-    "reported_date_mon":3,
-    "victim_race":"White",
-    "victim_age":59,
-    "victim_sex":"Male",
-    "city":"New York",
-    "disposition":"Open/No arrest"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -74.14682,40.63278 ]
     },
     "properties": {
