@@ -1,0 +1,558 @@
+[
+  {
+    "neighbor": "Woodhaven",
+    "num": 2
+  },
+  {
+    "neighbor": "Kingsbridge",
+    "num": 8
+  },
+  {
+    "neighbor": "Baychester",
+    "num": 1
+  },
+  {
+    "neighbor": "Crown Heights",
+    "num": 24
+  },
+  {
+    "neighbor": "East Flatbush",
+    "num": 26
+  },
+  {
+    "neighbor": "Bedford-Stuyvesant",
+    "num": 36
+  },
+  {
+    "neighbor": "Red Hook",
+    "num": 4
+  },
+  {
+    "neighbor": "Ozone Park",
+    "num": 7
+  },
+  {
+    "neighbor": "Cypress Hills",
+    "num": 4
+  },
+  {
+    "neighbor": "East New York",
+    "num": 30
+  },
+  {
+    "neighbor": "Charleston",
+    "num": 2
+  },
+  {
+    "neighbor": "Emerson Hill",
+    "num": 2
+  },
+  {
+    "neighbor": "Coney Island",
+    "num": 7
+  },
+  {
+    "neighbor": "Williamsburg",
+    "num": 11
+  },
+  {
+    "neighbor": "Belmont",
+    "num": 5
+  },
+  {
+    "neighbor": "Sunset Park",
+    "num": 4
+  },
+  {
+    "neighbor": "Mott Haven",
+    "num": 9
+  },
+  {
+    "neighbor": "Far Rockaway",
+    "num": 4
+  },
+  {
+    "neighbor": "East Harlem",
+    "num": 11
+  },
+  {
+    "neighbor": "Wakefield",
+    "num": 5
+  },
+  {
+    "neighbor": "Flatbush",
+    "num": 12
+  },
+  {
+    "neighbor": "Concourse",
+    "num": 3
+  },
+  {
+    "neighbor": "Fresh Meadows",
+    "num": 1
+  },
+  {
+    "neighbor": "Bronxdale",
+    "num": 1
+  },
+  {
+    "neighbor": "Castleton Corners",
+    "num": 3
+  },
+  {
+    "neighbor": "Canarsie",
+    "num": 13
+  },
+  {
+    "neighbor": "Harlem",
+    "num": 23
+  },
+  {
+    "neighbor": "Port Richmond",
+    "num": 2
+  },
+  {
+    "neighbor": "Park Hill",
+    "num": 1
+  },
+  {
+    "neighbor": "Fordham",
+    "num": 13
+  },
+  {
+    "neighbor": "Castle Hill",
+    "num": 3
+  },
+  {
+    "neighbor": "Woodside",
+    "num": 1
+  },
+  {
+    "neighbor": "St. Albans",
+    "num": 6
+  },
+  {
+    "neighbor": "Astoria",
+    "num": 2
+  },
+  {
+    "neighbor": "Inwood",
+    "num": 4
+  },
+  {
+    "neighbor": "Washington Heights",
+    "num": 9
+  },
+  {
+    "neighbor": "South Beach",
+    "num": 1
+  },
+  {
+    "neighbor": "New Springville",
+    "num": 2
+  },
+  {
+    "neighbor": "Williamsbridge",
+    "num": 6
+  },
+  {
+    "neighbor": "Upper East Side",
+    "num": 3
+  },
+  {
+    "neighbor": "Soundview",
+    "num": 6
+  },
+  {
+    "neighbor": "South Ozone Park",
+    "num": 4
+  },
+  {
+    "neighbor": "Mariners Harbor",
+    "num": 5
+  },
+  {
+    "neighbor": "Westchester Square",
+    "num": 2
+  },
+  {
+    "neighbor": "East Village",
+    "num": 8
+  },
+  {
+    "neighbor": "Prospect-Lefferts Gardens",
+    "num": 3
+  },
+  {
+    "neighbor": "Maspeth",
+    "num": 1
+  },
+  {
+    "neighbor": "Longwood",
+    "num": 17
+  },
+  {
+    "neighbor": "Randall Manor",
+    "num": 4
+  },
+  {
+    "neighbor": "Kips Bay",
+    "num": 2
+  },
+  {
+    "neighbor": "Clason Point",
+    "num": 5
+  },
+  {
+    "neighbor": "Claremont Village",
+    "num": 9
+  },
+  {
+    "neighbor": "Bushwick",
+    "num": 9
+  },
+  {
+    "neighbor": "East Morrisania",
+    "num": 4
+  },
+  {
+    "neighbor": "Manhattan Beach",
+    "num": 1
+  },
+  {
+    "neighbor": "Hunts Point",
+    "num": 4
+  },
+  {
+    "neighbor": "Jamaica",
+    "num": 19
+  },
+  {
+    "neighbor": "Melrose",
+    "num": 5
+  },
+  {
+    "neighbor": "Norwood",
+    "num": 2
+  },
+  {
+    "neighbor": "Oakwood",
+    "num": 1
+  },
+  {
+    "neighbor": "Country Club",
+    "num": 1
+  },
+  {
+    "neighbor": "Springfield Gardens",
+    "num": 7
+  },
+  {
+    "neighbor": "Allerton",
+    "num": 4
+  },
+  {
+    "neighbor": "Little Neck",
+    "num": 1
+  },
+  {
+    "neighbor": "Gramercy",
+    "num": 2
+  },
+  {
+    "neighbor": "Concourse Village",
+    "num": 5
+  },
+  {
+    "neighbor": "Boerum Hill",
+    "num": 2
+  },
+  {
+    "neighbor": "St. George",
+    "num": 2
+  },
+  {
+    "neighbor": "Brooklyn Heights",
+    "num": 1
+  },
+  {
+    "neighbor": "Mount Hope",
+    "num": 6
+  },
+  {
+    "neighbor": "Corona",
+    "num": 1
+  },
+  {
+    "neighbor": "Vinegar Hill",
+    "num": 3
+  },
+  {
+    "neighbor": "College Point",
+    "num": 1
+  },
+  {
+    "neighbor": "Brownsville",
+    "num": 14
+  },
+  {
+    "neighbor": "Co-op City",
+    "num": 2
+  },
+  {
+    "neighbor": "Briarwood",
+    "num": 1
+  },
+  {
+    "neighbor": "Dyker Heights",
+    "num": 4
+  },
+  {
+    "neighbor": "Lower East Side",
+    "num": 1
+  },
+  {
+    "neighbor": "Eastchester",
+    "num": 3
+  },
+  {
+    "neighbor": "Richmond Hill",
+    "num": 12
+  },
+  {
+    "neighbor": "Mount Eden",
+    "num": 5
+  },
+  {
+    "neighbor": "Fort Greene",
+    "num": 2
+  },
+  {
+    "neighbor": "Fort Hamilton",
+    "num": 1
+  },
+  {
+    "neighbor": "Flushing",
+    "num": 4
+  },
+  {
+    "neighbor": "Highbridge",
+    "num": 3
+  },
+  {
+    "neighbor": "Olinville",
+    "num": 1
+  },
+  {
+    "neighbor": "Sunnyside",
+    "num": 1
+  },
+  {
+    "neighbor": "Tremont",
+    "num": 5
+  },
+  {
+    "neighbor": "Howard Beach",
+    "num": 2
+  },
+  {
+    "neighbor": "Flatlands",
+    "num": 5
+  },
+  {
+    "neighbor": "Morris Heights",
+    "num": 7
+  },
+  {
+    "neighbor": "Gravesend",
+    "num": 2
+  },
+  {
+    "neighbor": "Borough Park",
+    "num": 1
+  },
+  {
+    "neighbor": "Jamaica Hills",
+    "num": 1
+  },
+  {
+    "neighbor": "Prospect Park",
+    "num": 2
+  },
+  {
+    "neighbor": "Queens Village",
+    "num": 2
+  },
+  {
+    "neighbor": "Morris Park",
+    "num": 2
+  },
+  {
+    "neighbor": "Throgs Neck",
+    "num": 3
+  },
+  {
+    "neighbor": "Rego Park",
+    "num": 1
+  },
+  {
+    "neighbor": "Ridgewood",
+    "num": 2
+  },
+  {
+    "neighbor": "Bay Ridge",
+    "num": 2
+  },
+  {
+    "neighbor": "New Dorp",
+    "num": 1
+  },
+  {
+    "neighbor": "Upper West Side",
+    "num": 5
+  },
+  {
+    "neighbor": "Parkchester",
+    "num": 3
+  },
+  {
+    "neighbor": "Sheepshead Bay",
+    "num": 2
+  },
+  {
+    "neighbor": "Morrisania",
+    "num": 2
+  },
+  {
+    "neighbor": "Hell's Kitchen",
+    "num": 2
+  },
+  {
+    "neighbor": "Elmhurst",
+    "num": 6
+  },
+  {
+    "neighbor": "Clifton",
+    "num": 2
+  },
+  {
+    "neighbor": "Schuylerville",
+    "num": 1
+  },
+  {
+    "neighbor": "Bergen Beach",
+    "num": 2
+  },
+  {
+    "neighbor": "Theater District",
+    "num": 3
+  },
+  {
+    "neighbor": "Prospect Heights",
+    "num": 1
+  },
+  {
+    "neighbor": "Stapleton",
+    "num": 2
+  },
+  {
+    "neighbor": "West Farms",
+    "num": 5
+  },
+  {
+    "neighbor": "Central Park",
+    "num": 1
+  },
+  {
+    "neighbor": "Glendale",
+    "num": 1
+  },
+  {
+    "neighbor": "Dongan Hills",
+    "num": 2
+  },
+  {
+    "neighbor": "Midtown",
+    "num": 3
+  },
+  {
+    "neighbor": "Port Morris",
+    "num": 2
+  },
+  {
+    "neighbor": "Bath Beach",
+    "num": 1
+  },
+  {
+    "neighbor": "Tribeca",
+    "num": 1
+  },
+  {
+    "neighbor": "Greenpoint",
+    "num": 2
+  },
+  {
+    "neighbor": "Midland Beach",
+    "num": 1
+  },
+  {
+    "neighbor": "Bayswater",
+    "num": 1
+  },
+  {
+    "neighbor": "Chelsea",
+    "num": 1
+  },
+  {
+    "neighbor": "Long Island City",
+    "num": 3
+  },
+  {
+    "neighbor": "Bayside",
+    "num": 1
+  },
+  {
+    "neighbor": "Unionport",
+    "num": 1
+  },
+  {
+    "neighbor": "Rockaway Beach",
+    "num": 1
+  },
+  {
+    "neighbor": "South Slope",
+    "num": 1
+  },
+  {
+    "neighbor": "DUMBO",
+    "num": 1
+  },
+  {
+    "neighbor": "Brighton Beach",
+    "num": 2
+  },
+  {
+    "neighbor": "Mill Basin",
+    "num": 1
+  },
+  {
+    "neighbor": "Gowanus",
+    "num": 1
+  },
+  {
+    "neighbor": "East Elmhurst",
+    "num": 1
+  },
+  {
+    "neighbor": "Graniteville",
+    "num": 1
+  },
+  {
+    "neighbor": "Sea Gate",
+    "num": 1
+  },
+  {
+    "neighbor": "SoHo",
+    "num": 8
+  }
+]
