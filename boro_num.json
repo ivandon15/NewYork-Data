@@ -1,0 +1,7 @@
+[
+  {"boro_name": "Queens","num": 97},
+  {"boro_name": "Bronx","num": 169},
+  {"boro_name": "Brooklyn", "num": 238},
+  {"boro_name": "Staten Island", "num": 34},
+  { "boro_name": "Manhattan","num": 87}
+]
